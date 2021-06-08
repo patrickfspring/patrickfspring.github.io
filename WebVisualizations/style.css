@@ -1,0 +1,35 @@
+.navbar-brand {
+  font-weight: 750;
+  font-family: 'Times New Roman', Serif;
+  font-size: 30px;
+  color: white;
+  background-color: teal
+}
+.dropdown-menu-center {
+  left: 50% !important;
+  right: auto !important;
+  text-align: center !important;
+  transform: translate(-50%, 0) !important;
+}
+
+.navbar-nav {
+  margin-left: 70%;
+}
+
+h2 {
+  color: teal;
+  font-weight: 550;
+  font-size: 25px;
+  font-family: 'Times New Roman', Serif; 
+}
+
+h3 {
+  color: teal;
+  font-weight: 550;
+  font-size: 20px;
+  font-family: 'Times New Roman', Serif; 
+}
+
+.imgcont {
+  padding: 0px
+}
