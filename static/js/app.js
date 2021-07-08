@@ -111,7 +111,7 @@ function initialLoad() {
 			{
 				domain: { x: [0, 1], y: [0, 1] },
 				value: data.metadata[0].wfreq,
-				title: { text: "Belly Button Washing Frequency" },
+				title: { text: "Belly Button Washing Frequency per week" },
 				type: "indicator",
 				mode: "gauge+number",
 				gauge: {
@@ -250,7 +250,7 @@ function optionChanged(selectedSample) {
 			{
 				domain: { x: [0, 1], y: [0, 1] },
 				value: data.metadata[sampleKey].wfreq,
-				title: { text: "Belly Button Washing Frequency" },
+				title: { text: "Belly Button Washing Frequency per week" },
 				type: "indicator",
 				mode: "gauge+number",
 				gauge: {
